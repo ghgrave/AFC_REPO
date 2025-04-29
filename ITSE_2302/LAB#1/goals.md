@@ -1,8 +1,11 @@
 📝 Student Instructions:
 
+* Use the attached docker and init files to run a container with widgets database and data.
+* Connect database to IntelliJ
 * Write and test each query in your database.
 * Add each query to a .sql or .txt file in your GitHub repo.
 * Include a comment above each query indicating the task number (e.g., -- Task 1a, -- Task 5).
+* SUBMIT .sql file with all your tasks.
 
 ### Task 1: Basic Filtering
 Find all widgets that have a quantity greater than 30 and less than 70.
